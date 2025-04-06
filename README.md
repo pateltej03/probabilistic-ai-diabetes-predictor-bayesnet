@@ -13,8 +13,6 @@ Built as part of my Artificial Intelligence coursework at Penn State, this proje
 
 | File Name | Description |
 
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------- | --------------- |
-
 | `solution_q1.py` | Implements **variable elimination** on a 5-node Bayesian Network to compute conditional distributions like P(Burglary | JohnCalls = +j) |
 
 | `solution_q2.py` | Implements a **Naive Bayes classifier** using real patient data to predict diabetes from glucose and blood pressure levels |
